@@ -1,8 +1,7 @@
-# 👋 Hi, I'm Beckline Matuke
 
 **Software developer 
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Beckline90&theme=tokyonight&hide_border=true)
+  
+  ![GitHub Streak](https://streak-stats.demolab.com?user=Beckline90&theme=tokyonight&hide_border=true)
 
 
 
