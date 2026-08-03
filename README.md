@@ -1,3 +1,13 @@
+# 👋 Hi, I'm Beckline Matuke
+
+**Full-Stack Software Developer** | **C# • ASP.NET Core • JavaScript • SQL • REST APIs**
+
+Building scalable web applications with modern Microsoft technologies. Passionate about clean architecture, high-performance backend systems, and responsive user experiences.
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Beckline90&theme=tokyonight&hide_border=true)
+
+---
+
 
 **Software developer 
 # 💻 Tech Stack:
