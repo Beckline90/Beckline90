@@ -1,15 +1,25 @@
 # 👋 Hi, I'm Beckline Matuke
 
-**Full-Stack Software Developer** | **C# • ASP.NET Core • JavaScript • SQL • REST APIs**
+**Backend Developer** | **C# • ASP.NET Core • PostgreSQL • Azure • REST APIs**
 
-Building scalable web applications with modern Microsoft technologies. Passionate about clean architecture, high-performance backend systems, and responsive user experiences.
+Building scalable web APIs with modern Microsoft technologies. Passionate about clean architecture, secure authentication, and high-performance backend systems.
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Beckline90&theme=tokyonight&hide_border=true)
 
 ---
 
+## 🚀 Currently Building
 
-**Software developer 
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+**Doing Life**: an ASP.NET Core Web API with Identity, JWT authentication, and PostgreSQL.
 
+---
+
+## 💼 Experience Highlight
+
+**[Pro Athlete Metrics](https://www.proathletemetrics.com/)**: athlete performance analytics platform delivered to a client. Built the C# and ASP.NET REST API backend, designed the PostgreSQL schema for time-series data, optimized queries and caching, and deployed and maintained the system on Microsoft Azure.
+
+---
+
+## 💻 Tech Stack
+
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white) ![Entity Framework](https://img.shields.io/badge/EF%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%2385EA2D?style=for-the-badge&logo=swagger&logoColor=black)
