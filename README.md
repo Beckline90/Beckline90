@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Beckline Matuke
 
-**.Net Developer** | **C# • ASP.NET Core • PostgreSQL • Azure • REST APIs**
+**Backend Developer** | **C# • ASP.NET Core • PostgreSQL • Azure • REST APIs**
 
 Building scalable web APIs with modern Microsoft technologies. Passionate about clean architecture, secure authentication, and high-performance backend systems.
 
