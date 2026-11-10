@@ -4,13 +4,18 @@
 
 Building scalable web APIs with modern Microsoft technologies. Passionate about clean architecture, secure authentication, and high-performance backend systems.
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Beckline90&theme=tokyonight&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Beckline90&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
 ---
 
 ## 🚀 Currently Building
 
-**Doing Life**: an ASP.NET Core Web API with Identity, JWT authentication, and PostgreSQL.
+**[Doing Life](https://github.com/Beckline90/DoingLife)**: an AI-powered guidance platform. I built the ASP.NET Core Web API, deployed on Azure with PostgreSQL.
+
+- Identity and JWT authentication with rotating, hashed refresh tokens and reuse detection
+- Email verification and password reset through Azure Communication Services
+- Account lockout, rate limiting, and login history
+- Integrated with a live front end built by a partner
 
 ---
 
