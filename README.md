@@ -2,9 +2,7 @@
 
 **Backend Developer** | **C# • ASP.NET Core • PostgreSQL • Azure • REST APIs**
 
-Building scalable web APIs with modern Microsoft technologies. Passionate about clean architecture, secure authentication, and high-performance backend systems.
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Beckline90&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+I design and build secure, scalable web APIs with modern Microsoft technologies, and I work with front-end teams to ship complete products. Passionate about clean architecture, secure authentication, and reliable cloud deployments.
 
 ---
 
@@ -21,7 +19,13 @@ Building scalable web APIs with modern Microsoft technologies. Passionate about 
 
 ## 💼 Experience Highlight
 
-**[Pro Athlete Metrics](https://www.proathletemetrics.com/)**: athlete performance analytics platform delivered to a client. Built the C# and ASP.NET REST API backend, designed the PostgreSQL schema for time-series data, optimized queries and caching, and deployed and maintained the system on Microsoft Azure.
+**[Pro Athlete Metrics](https://www.proathletemetrics.com/) (LLD Sports)**: athlete performance analytics platform delivered to a client.
+
+- Built the C# and ASP.NET REST API backend for continuous data ingestion from multiple sources
+- Designed and optimized the PostgreSQL schema for time-series storage, querying, and trend analysis
+- Developed anomaly detection and alerting logic to flag abnormal results
+- Improved API performance by 30% through query optimization and caching
+- Deployed and maintained the system on Microsoft Azure
 
 ---
 
